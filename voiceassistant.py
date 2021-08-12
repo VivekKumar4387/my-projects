@@ -96,7 +96,7 @@ def jarvis(data):
 
         location = data[2]
 
-        speak("hold on Abhijeet,i will show you where" + location + "is,")
+        speak("hold on Vivek,i will show you where" + location + "is,")
 
         wb.open_new_tab("https://wwww.google.nl/maps/place/" + location + "/%amp;")
 
