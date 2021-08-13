@@ -40,7 +40,6 @@ ballxdirection=0.5
 ballydirection=0.5
 
 #creating pen for scorecard update
-
 pen=t.Turtle()
 pen.speed(0)
 pen.color("blue")
